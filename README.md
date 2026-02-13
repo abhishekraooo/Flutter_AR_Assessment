@@ -9,8 +9,8 @@ This Flutter-based Android application demonstrates real-world Augmented Reality
 * [Features](#features)
 * [Technical Decisions & Architecture](#technical-decisions--architecture)
 * [Dependencies](#dependencies)
+* [Test Device Details](#test--device--details)
 * [Prerequisites](#prerequisites)
-* [Project Structure (recommended)](#project-structure-recommended)
 * [Build & Installation Instructions](#build--installation-instructions)
 * [Usage Guide](#usage-guide)
 * [Reset & Replay Cycle](#reset--replay-cycle)
@@ -20,7 +20,6 @@ This Flutter-based Android application demonstrates real-world Augmented Reality
 * [Contributing](#contributing)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
 
 ## Features
 
@@ -73,6 +72,11 @@ dependencies:
     sdk: flutter
   arcore_flutter_plugin: ^0.0.16 # replace with the plugin version compatible with your setup
 ```
+## Test Device Details
+
+- Device Model: OnePlus Nord CE4
+- Android Version: 16
+- ARCore Support: Supported
 
 ## Prerequisites
 
